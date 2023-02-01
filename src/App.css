@@ -1,0 +1,35 @@
+.app{
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 5rem 0;
+}
+
+.item{
+    margin-bottom: 2rem;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.info{
+    margin-bottom: 1rem !important;
+}
+.chartBox{
+    width: 400px;
+    padding: 20px;
+    border: solid 1px ;
+    background: white;
+}
+.chartCard {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+/* .lineBox{
+    width: 600px;
+    padding: 20px;
+    border: solid 1px ;
+    background: white;
+    justify-content: space-evenly;
+} */
+.lineBox{
+    padding-top: 2rem;
+}

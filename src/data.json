@@ -1,0 +1,2391 @@
+[
+    {
+      "matchInfo": {
+        "matchId": 38607,
+        "seriesId": 3687,
+        "seriesName": "West Indies tour of India, 2022",
+        "matchDesc": "1st T20I",
+        "matchFormat": "T20",
+        "startDate": "Sun, 15 Jan",
+        "endDate": "1645030800000",
+        "state": "Complete",
+        "status": "India won by 6 wkts",
+        "over": 20,
+        "team1": {
+          "teamId": 2,
+          "teamName": "India",
+          "teamSName": "IN",
+          "imageId": 172115
+        },
+        "team2": {
+          "teamId": 10,
+          "teamName": "Sri Lanka",
+          "teamSName": "LK",
+          "imageId": 172124
+        },
+        "venueInfo": {
+          "id": 31,
+          "ground": "Eden Gardens",
+          "city": "Kolkata",
+          "timezone": "+05:30"
+        },
+        "currentBatTeamId": 2,
+        "seriesStartDt": "1644105600000",
+        "seriesEndDt": "1645488000000"
+      },
+      "matchScore": {
+        "team1Score": {
+          "inngs1": {
+            "inningsId": 2,
+            "runs": 162,
+            "wickets": 4,
+            "overs": 18.5
+          }
+        },
+        "team2Score": {
+          "inngs1": {
+            "inningsId": 1,
+            "runs": 157,
+            "wickets": 7,
+            "overs": 19.6
+          }
+        },
+        "scorecard1": {
+          "inningsId": 2,
+          "batsman": [
+            {
+              "id": 576,
+              "balls": 19,
+              "runs": 40,
+              "fours": 4,
+              "sixes": 3,
+              "strkRate": "210.53",
+              "name": "Rohit Sharma",
+              "nickName": "Rohit",
+              "isCaptain": true,
+              "outDec": "c Odean Smith b Roston Chase"
+              
+            },
+            {
+              "id": 10276,
+              "balls": 42,
+              "runs": 35,
+              "fours": 4,
+              "strkRate": "83.33",
+              "name": "Ishan Kishan",
+              "nickName": "Ishan Kishan",
+              "outDec": "c Fabian Allen b Roston Chase"
+            },
+            {
+              "id": 1413,
+              "balls": 13,
+              "runs": 17,
+              "fours": 1,
+              "strkRate": "130.77",
+              "name": "Virat Kohli",
+              "nickName": "Kohli",
+              "outDec": "c Pollard b Fabian Allen"
+            },
+            {
+              "id": 10744,
+              "balls": 8,
+              "runs": 8,
+              "strkRate": "100",
+              "name": "Rishabh Pant",
+              "nickName": "Pant",
+              "isKeeper": true,
+              "outDec": "c Odean Smith b Cottrell"
+            },
+            {
+              "id": 7915,
+              "balls": 18,
+              "runs": 34,
+              "fours": 5,
+              "sixes": 1,
+              "strkRate": "188.89",
+              "name": "Suryakumar Yadav",
+              "nickName": "Suryakumar Yadav",
+              "outDec": "not out"
+            },
+            {
+              "id": 10917,
+              "balls": 13,
+              "runs": 24,
+              "fours": 2,
+              "sixes": 1,
+              "strkRate": "184.62",
+              "name": "Venkatesh Iyer",
+              "nickName": "Venkatesh Iyer",
+              "outDec": "not out"
+            },
+            {
+              "id": 7836,
+              "strkRate": "0",
+              "name": "Deepak Chahar",
+              "nickName": "D Chahar"
+            },
+            {
+              "id": 1726,
+              "strkRate": "0",
+              "name": "Bhuvneshwar Kumar",
+              "nickName": "Bhuvneshwar"
+            },
+            {
+              "id": 8175,
+              "strkRate": "0",
+              "name": "Harshal Patel",
+              "nickName": "Harshal Patel"
+            },
+            {
+              "id": 14659,
+              "strkRate": "0",
+              "name": "Ravi Bishnoi",
+              "nickName": "Ravi Bishnoi"
+            },
+            {
+              "id": 7910,
+              "strkRate": "0",
+              "name": "Yuzvendra Chahal",
+              "nickName": "Chahal"
+            }
+          ],
+          "bowler": [
+            {
+              "id": 9395,
+              "overs": "4",
+              "wickets": 1,
+              "runs": 35,
+              "economy": "8.8",
+              "name": "Sheldon Cottrell",
+              "nickName": "Cottrell"
+            },
+            {
+              "id": 13646,
+              "overs": "3",
+              "runs": 24,
+              "economy": "8",
+              "name": "Romario Shepherd",
+              "nickName": "Romario Shepherd"
+            },
+            {
+              "id": 11215,
+              "overs": "2",
+              "runs": 31,
+              "economy": "15.5",
+              "name": "Odean Smith",
+              "nickName": "Odean Smith"
+            },
+            {
+              "id": 8435,
+              "overs": "4",
+              "runs": 34,
+              "economy": "8.5",
+              "name": "Akeal Hosein",
+              "nickName": "Akeal Hosein"
+            },
+            {
+              "id": 11543,
+              "overs": "4",
+              "wickets": 2,
+              "runs": 14,
+              "economy": "3.5",
+              "name": "Roston Chase",
+              "nickName": "Roston Chase"
+            },
+            {
+              "id": 9785,
+              "overs": "1.5",
+              "wickets": 1,
+              "runs": 23,
+              "economy": "12.5",
+              "name": "Fabian Allen",
+              "nickName": "Fabian Allen"
+            }
+          ],
+          "fow": [
+            {
+              "fow": [
+                {
+                  "batsmanId": 576,
+                  "batsmanName": "Rohit Sharma",
+                  "overNbr": 7.3,
+                  "runs": 64,
+                  "ballNbr": 73
+                },
+                {
+                  "batsmanId": 10276,
+                  "batsmanName": "Ishan Kishan",
+                  "overNbr": 11.6,
+                  "runs": 93,
+                  "ballNbr": 116
+                },
+                {
+                  "batsmanId": 1413,
+                  "batsmanName": "Virat Kohli",
+                  "overNbr": 12.3,
+                  "runs": 95,
+                  "ballNbr": 123
+                },
+                {
+                  "batsmanId": 10744,
+                  "batsmanName": "Rishabh Pant",
+                  "overNbr": 14.3,
+                  "runs": 114,
+                  "ballNbr": 143
+                }
+              ]
+            }
+          ],
+          "extras": {
+            "legByes": 1,
+            "wides": 3,
+            "total": 4
+          },
+          "pp": [
+            {
+              "powerPlay": [
+                {
+                  "id": 45,
+                  "ovrFrom": 0.1,
+                  "ovrTo": 6,
+                  "ppType": "mandatory",
+                  "run": 58
+                }
+              ]
+            }
+          ],
+          "score": 162,
+          "wickets": 4,
+          "overs": 18.5,
+          "runRate": 8.6,
+          "batTeamName": "India",
+          "batTeamSName": "IND",
+          "ballNbr": 113,
+          "rpb": 0.88
+        },
+        "scorecard2": {
+          "inningsId": 1,
+          "batsman": [
+            {
+              "id": 9791,
+              "balls": 5,
+              "runs": 4,
+              "fours": 1,
+              "strkRate": "80",
+              "name": "Brandon King",
+              "outDec": "c Suryakumar Yadav b Bhuvneshwar"
+            },
+            {
+              "id": 8440,
+              "balls": 24,
+              "runs": 31,
+              "fours": 7,
+              "strkRate": "129.17",
+              "name": "K Mayers",
+              "outDec": "lbw b Chahal"
+            },
+            {
+              "id": 9406,
+              "balls": 43,
+              "runs": 61,
+              "fours": 4,
+              "sixes": 5,
+              "strkRate": "141.86",
+              "name": "Pooran",
+              "isKeeper": true,
+              "outDec": "c Kohli b Harshal Patel"
+            },
+            {
+              "id": 11543,
+              "balls": 10,
+              "runs": 4,
+              "strkRate": "40",
+              "name": "Roston Chase",
+              "outDec": "lbw b Ravi Bishnoi"
+            },
+            {
+              "id": 11445,
+              "balls": 3,
+              "runs": 2,
+              "strkRate": "66.67",
+              "name": "Rovman Powell",
+              "outDec": "c Venkatesh Iyer b Ravi Bishnoi"
+            },
+            {
+              "id": 8435,
+              "balls": 12,
+              "runs": 10,
+              "sixes": 1,
+              "strkRate": "83.33",
+              "name": "Akeal Hosein",
+              "outDec": "c and b D Chahar"
+            },
+            {
+              "id": 657,
+              "balls": 19,
+              "runs": 24,
+              "fours": 2,
+              "sixes": 1,
+              "strkRate": "126.32",
+              "name": "Pollard",
+              "isCaptain": true,
+              "outDec": "not out"
+            },
+            {
+              "id": 11215,
+              "balls": 4,
+              "runs": 4,
+              "strkRate": "100",
+              "name": "Odean Smith",
+              "outDec": "c Rohit b Harshal Patel"
+            },
+            {
+              "id": 13646,
+              "strkRate": "0",
+              "name": "Romario Shepherd"
+            },
+            {
+              "id": 9785,
+              "strkRate": "0",
+              "name": "Fabian Allen"
+            },
+            {
+              "id": 9395,
+              "strkRate": "0",
+              "name": "Cottrell"
+            }
+          ],
+          "bowler": [
+            {
+              "id": 1726,
+              "overs": "4",
+              "wickets": 1,
+              "runs": 31,
+              "economy": "7.8",
+              "name": "Bhuvneshwar"
+            },
+            {
+              "id": 7836,
+              "overs": "3",
+              "wickets": 1,
+              "runs": 28,
+              "economy": "9.3",
+              "name": "D Chahar"
+            },
+            {
+              "id": 8175,
+              "overs": "4",
+              "wickets": 2,
+              "runs": 37,
+              "economy": "9.2",
+              "name": "Harshal Patel"
+            },
+            {
+              "id": 7910,
+              "overs": "4",
+              "wickets": 1,
+              "runs": 34,
+              "economy": "8.5",
+              "name": "Chahal"
+            },
+            {
+              "id": 14659,
+              "overs": "4",
+              "wickets": 2,
+              "runs": 17,
+              "economy": "4.2",
+              "name": "Ravi Bishnoi"
+            },
+            {
+              "id": 10917,
+              "overs": "1",
+              "runs": 4,
+              "economy": "4",
+              "name": "Venkatesh Iyer"
+            }
+          ],
+          "fow": [
+            {
+              "fow": [
+                {
+                  "batsmanId": 9791,
+                  "batsmanName": "Brandon King",
+                  "overNbr": 0.5,
+                  "runs": 4,
+                  "ballNbr": 5
+                },
+                {
+                  "batsmanId": 8440,
+                  "batsmanName": "K Mayers",
+                  "overNbr": 6.5,
+                  "runs": 51,
+                  "ballNbr": 65
+                },
+                {
+                  "batsmanId": 11543,
+                  "batsmanName": "Roston Chase",
+                  "overNbr": 10.2,
+                  "runs": 72,
+                  "ballNbr": 102
+                },
+                {
+                  "batsmanId": 11445,
+                  "batsmanName": "Rovman Powell",
+                  "overNbr": 10.5,
+                  "runs": 74,
+                  "ballNbr": 105
+                },
+                {
+                  "batsmanId": 8435,
+                  "batsmanName": "Akeal Hosein",
+                  "overNbr": 13.5,
+                  "runs": 90,
+                  "ballNbr": 135
+                },
+                {
+                  "batsmanId": 9406,
+                  "batsmanName": "Pooran",
+                  "overNbr": 17.6,
+                  "runs": 135,
+                  "ballNbr": 176
+                },
+                {
+                  "batsmanId": 11215,
+                  "batsmanName": "Odean Smith",
+                  "overNbr": 19.6,
+                  "runs": 157,
+                  "ballNbr": 196
+                }
+              ]
+            }
+          ],
+          "extras": {
+            "legByes": 6,
+            "wides": 11,
+            "total": 17
+          },
+          "pp": [
+            {
+              "powerPlay": [
+                {
+                  "id": 44,
+                  "ovrFrom": 0.1,
+                  "ovrTo": 6,
+                  "ppType": "mandatory",
+                  "run": 44
+                }
+              ]
+            }
+          ],
+          "score": 157,
+          "wickets": 7,
+          "overs": 20,
+          "runRate": 7.85,
+          "batTeamName": "West Indies",
+          "batTeamSName": "WI",
+          "ballNbr": 120,
+          "rpb": 0.79
+        }
+      },
+      "scorecard1": {
+        "inningsId": 2,
+        "batsman": [
+          {
+            "id": 576,
+            "balls": 19,
+            "runs": 40,
+            "fours": 4,
+            "sixes": 3,
+            "strkRate": "210.53",
+            "name": "Rohit Sharma",
+            "nickName": "Rohit",
+            "isCaptain": true,
+            "outDec": "c Odean Smith b Roston Chase"
+          },
+          {
+            "id": 10276,
+            "balls": 42,
+            "runs": 35,
+            "fours": 4,
+            "strkRate": "83.33",
+            "name": "Ishan Kishan",
+            "nickName": "Ishan Kishan",
+            "outDec": "c Fabian Allen b Roston Chase"
+          },
+          {
+            "id": 1413,
+            "balls": 13,
+            "runs": 17,
+            "fours": 1,
+            "strkRate": "130.77",
+            "name": "Virat Kohli",
+            "nickName": "Kohli",
+            "outDec": "c Pollard b Fabian Allen"
+          },
+          {
+            "id": 10744,
+            "balls": 8,
+            "runs": 8,
+            "strkRate": "100",
+            "name": "Rishabh Pant",
+            "nickName": "Pant",
+            "isKeeper": true,
+            "outDec": "c Odean Smith b Cottrell"
+          },
+          {
+            "id": 7915,
+            "balls": 18,
+            "runs": 34,
+            "fours": 5,
+            "sixes": 1,
+            "strkRate": "188.89",
+            "name": "Suryakumar Yadav",
+            "nickName": "Suryakumar Yadav",
+            "outDec": "not out"
+          },
+          {
+            "id": 10917,
+            "balls": 13,
+            "runs": 24,
+            "fours": 2,
+            "sixes": 1,
+            "strkRate": "184.62",
+            "name": "Venkatesh Iyer",
+            "nickName": "Venkatesh Iyer",
+            "outDec": "not out"
+          },
+          {
+            "id": 7836,
+            "strkRate": "0",
+            "name": "Deepak Chahar",
+            "nickName": "D Chahar"
+          },
+          {
+            "id": 1726,
+            "strkRate": "0",
+            "name": "Bhuvneshwar Kumar",
+            "nickName": "Bhuvneshwar"
+          },
+          {
+            "id": 8175,
+            "strkRate": "0",
+            "name": "Harshal Patel",
+            "nickName": "Harshal Patel"
+          },
+          {
+            "id": 14659,
+            "strkRate": "0",
+            "name": "Ravi Bishnoi",
+            "nickName": "Ravi Bishnoi"
+          },
+          {
+            "id": 7910,
+            "strkRate": "0",
+            "name": "Yuzvendra Chahal",
+            "nickName": "Chahal"
+          }
+        ],
+        "bowler": [
+          {
+            "id": 9395,
+            "overs": "4",
+            "wickets": 1,
+            "runs": 35,
+            "economy": "8.8",
+            "name": "Sheldon Cottrell",
+            "nickName": "Cottrell"
+          },
+          {
+            "id": 13646,
+            "overs": "3",
+            "runs": 24,
+            "economy": "8",
+            "name": "Romario Shepherd",
+            "nickName": "Romario Shepherd"
+          },
+          {
+            "id": 11215,
+            "overs": "2",
+            "runs": 31,
+            "economy": "15.5",
+            "name": "Odean Smith",
+            "nickName": "Odean Smith"
+          },
+          {
+            "id": 8435,
+            "overs": "4",
+            "runs": 34,
+            "economy": "8.5",
+            "name": "Akeal Hosein",
+            "nickName": "Akeal Hosein"
+          },
+          {
+            "id": 11543,
+            "overs": "4",
+            "wickets": 2,
+            "runs": 14,
+            "economy": "3.5",
+            "name": "Roston Chase",
+            "nickName": "Roston Chase"
+          },
+          {
+            "id": 9785,
+            "overs": "1.5",
+            "wickets": 1,
+            "runs": 23,
+            "economy": "12.5",
+            "name": "Fabian Allen",
+            "nickName": "Fabian Allen"
+          }
+        ],
+        "fow": [
+          {
+            "fow": [
+              {
+                "batsmanId": 576,
+                "batsmanName": "Rohit Sharma",
+                "overNbr": 7.3,
+                "runs": 64,
+                "ballNbr": 73
+              },
+              {
+                "batsmanId": 10276,
+                "batsmanName": "Ishan Kishan",
+                "overNbr": 11.6,
+                "runs": 93,
+                "ballNbr": 116
+              },
+              {
+                "batsmanId": 1413,
+                "batsmanName": "Virat Kohli",
+                "overNbr": 12.3,
+                "runs": 95,
+                "ballNbr": 123
+              },
+              {
+                "batsmanId": 10744,
+                "batsmanName": "Rishabh Pant",
+                "overNbr": 14.3,
+                "runs": 114,
+                "ballNbr": 143
+              }
+            ]
+          }
+        ],
+        "extras": {
+          "legByes": 1,
+          "wides": 3,
+          "total": 4
+        },
+        "pp": [
+          {
+            "powerPlay": [
+              {
+                "id": 45,
+                "ovrFrom": 0.1,
+                "ovrTo": 6,
+                "ppType": "mandatory",
+                "run": 58
+              }
+            ]
+          }
+        ],
+        "score": 162,
+        "wickets": 4,
+        "overs": 18.5,
+        "runRate": 8.6,
+        "batTeamName": "India",
+        "batTeamSName": "IND",
+        "ballNbr": 113,
+        "rpb": 0.88
+      },
+      "scorecard2": {
+        "inningsId": 1,
+        "batsman": [
+          {
+            "id": 9791,
+            "balls": 5,
+            "runs": 4,
+            "fours": 1,
+            "strkRate": "80",
+            "name": "Brandon King",
+            "outDec": "c Suryakumar Yadav b Bhuvneshwar"
+          },
+          {
+            "id": 8440,
+            "balls": 24,
+            "runs": 31,
+            "fours": 7,
+            "strkRate": "129.17",
+            "name": "K Mayers",
+            "outDec": "lbw b Chahal"
+          },
+          {
+            "id": 9406,
+            "balls": 43,
+            "runs": 61,
+            "fours": 4,
+            "sixes": 5,
+            "strkRate": "141.86",
+            "name": "Pooran",
+            "isKeeper": true,
+            "outDec": "c Kohli b Harshal Patel"
+          },
+          {
+            "id": 11543,
+            "balls": 10,
+            "runs": 4,
+            "strkRate": "40",
+            "name": "Roston Chase",
+            "outDec": "lbw b Ravi Bishnoi"
+          },
+          {
+            "id": 11445,
+            "balls": 3,
+            "runs": 2,
+            "strkRate": "66.67",
+            "name": "Rovman Powell",
+            "outDec": "c Venkatesh Iyer b Ravi Bishnoi"
+          },
+          {
+            "id": 8435,
+            "balls": 12,
+            "runs": 10,
+            "sixes": 1,
+            "strkRate": "83.33",
+            "name": "Akeal Hosein",
+            "outDec": "c and b D Chahar"
+          },
+          {
+            "id": 657,
+            "balls": 19,
+            "runs": 24,
+            "fours": 2,
+            "sixes": 1,
+            "strkRate": "126.32",
+            "name": "Pollard",
+            "isCaptain": true,
+            "outDec": "not out"
+          },
+          {
+            "id": 11215,
+            "balls": 4,
+            "runs": 4,
+            "strkRate": "100",
+            "name": "Odean Smith",
+            "outDec": "c Rohit b Harshal Patel"
+          },
+          {
+            "id": 13646,
+            "strkRate": "0",
+            "name": "Romario Shepherd"
+          },
+          {
+            "id": 9785,
+            "strkRate": "0",
+            "name": "Fabian Allen"
+          },
+          {
+            "id": 9395,
+            "strkRate": "0",
+            "name": "Cottrell"
+          }
+        ],
+        "bowler": [
+          {
+            "id": 1726,
+            "overs": "4",
+            "wickets": 1,
+            "runs": 31,
+            "economy": "7.8",
+            "name": "Bhuvneshwar"
+          },
+          {
+            "id": 7836,
+            "overs": "3",
+            "wickets": 1,
+            "runs": 28,
+            "economy": "9.3",
+            "name": "D Chahar"
+          },
+          {
+            "id": 8175,
+            "overs": "4",
+            "wickets": 2,
+            "runs": 37,
+            "economy": "9.2",
+            "name": "Harshal Patel"
+          },
+          {
+            "id": 7910,
+            "overs": "4",
+            "wickets": 1,
+            "runs": 34,
+            "economy": "8.5",
+            "name": "Chahal"
+          },
+          {
+            "id": 14659,
+            "overs": "4",
+            "wickets": 2,
+            "runs": 17,
+            "economy": "4.2",
+            "name": "Ravi Bishnoi"
+          },
+          {
+            "id": 10917,
+            "overs": "1",
+            "runs": 4,
+            "economy": "4",
+            "name": "Venkatesh Iyer"
+          }
+        ],
+        "fow": [
+          {
+            "fow": [
+              {
+                "batsmanId": 9791,
+                "batsmanName": "Brandon King",
+                "overNbr": 0.5,
+                "runs": 4,
+                "ballNbr": 5
+              },
+              {
+                "batsmanId": 8440,
+                "batsmanName": "K Mayers",
+                "overNbr": 6.5,
+                "runs": 51,
+                "ballNbr": 65
+              },
+              {
+                "batsmanId": 11543,
+                "batsmanName": "Roston Chase",
+                "overNbr": 10.2,
+                "runs": 72,
+                "ballNbr": 102
+              },
+              {
+                "batsmanId": 11445,
+                "batsmanName": "Rovman Powell",
+                "overNbr": 10.5,
+                "runs": 74,
+                "ballNbr": 105
+              },
+              {
+                "batsmanId": 8435,
+                "batsmanName": "Akeal Hosein",
+                "overNbr": 13.5,
+                "runs": 90,
+                "ballNbr": 135
+              },
+              {
+                "batsmanId": 9406,
+                "batsmanName": "Pooran",
+                "overNbr": 17.6,
+                "runs": 135,
+                "ballNbr": 176
+              },
+              {
+                "batsmanId": 11215,
+                "batsmanName": "Odean Smith",
+                "overNbr": 19.6,
+                "runs": 157,
+                "ballNbr": 196
+              }
+            ]
+          }
+        ],
+        "extras": {
+          "legByes": 6,
+          "wides": 11,
+          "total": 17
+        },
+        "pp": [
+          {
+            "powerPlay": [
+              {
+                "id": 44,
+                "ovrFrom": 0.1,
+                "ovrTo": 6,
+                "ppType": "mandatory",
+                "run": 44
+              }
+            ]
+          }
+        ],
+        "score": 157,
+        "wickets": 7,
+        "overs": 20,
+        "runRate": 7.85,
+        "batTeamName": "West Indies",
+        "batTeamSName": "WI",
+        "ballNbr": 120,
+        "rpb": 0.79
+      }
+    },
+    {
+      "matchInfo": {
+        "matchId": 38602,
+        "seriesId": 3687,
+        "seriesName": "West Indies tour of India, 2022",
+        "matchDesc": "3rd ODI",
+        "matchFormat": "ODI",
+        "startDate": "Sun, 15 Jan",
+        "endDate": "1644595200000",
+        "state": "Complete",
+        "status": "India won by 96 runs",
+        "over":20,
+        "team1": {
+          "teamId": 2,
+          "teamName": "India",
+          "teamSName": "IN",
+          "imageId": 172115
+        },
+        "team2": {
+          "teamId": 10,
+          "teamName": "Sri Lanka",
+          "teamSName": "LK",
+          "imageId": 172124
+        },
+        "venueInfo": {
+          "id": 50,
+          "ground": "Narendra Modi Stadium",
+          "city": "Ahmedabad",
+          "timezone": "+05:30"
+        },
+        "currentBatTeamId": 2,
+        "seriesStartDt": "1644105600000",
+        "seriesEndDt": "1645488000000"
+      },
+      "matchScore": {
+        "team1Score": {
+          "inngs1": {
+            "inningsId": 1,
+            "runs": 265,
+            "wickets": 10,
+            "overs": 49.6
+          }
+        },
+        "team2Score": {
+          "inngs1": {
+            "inningsId": 2,
+            "runs": 169,
+            "wickets": 10,
+            "overs": 37.1
+          }
+        }
+      },
+      "scorecard1": {
+        "inningsId": 2,
+        "batsman": [
+          {
+            "id": 576,
+            "balls": 19,
+            "runs": 40,
+            "fours": 4,
+            "sixes": 3,
+            "strkRate": "210.53",
+            "name": "Rohit Sharma",
+            "nickName": "Rohit",
+            "isCaptain": true,
+            "outDec": "c Odean Smith b Roston Chase"
+          },
+          {
+            "id": 10276,
+            "balls": 42,
+            "runs": 35,
+            "fours": 4,
+            "strkRate": "83.33",
+            "name": "Ishan Kishan",
+            "nickName": "Ishan Kishan",
+            "outDec": "c Fabian Allen b Roston Chase"
+          },
+          {
+            "id": 1413,
+            "balls": 13,
+            "runs": 17,
+            "fours": 1,
+            "strkRate": "130.77",
+            "name": "Virat Kohli",
+            "nickName": "Kohli",
+            "outDec": "c Pollard b Fabian Allen"
+          },
+          {
+            "id": 10744,
+            "balls": 8,
+            "runs": 8,
+            "strkRate": "100",
+            "name": "Rishabh Pant",
+            "nickName": "Pant",
+            "isKeeper": true,
+            "outDec": "c Odean Smith b Cottrell"
+          },
+          {
+            "id": 7915,
+            "balls": 18,
+            "runs": 34,
+            "fours": 5,
+            "sixes": 1,
+            "strkRate": "188.89",
+            "name": "Suryakumar Yadav",
+            "nickName": "Suryakumar Yadav",
+            "outDec": "not out"
+          },
+          {
+            "id": 10917,
+            "balls": 13,
+            "runs": 24,
+            "fours": 2,
+            "sixes": 1,
+            "strkRate": "184.62",
+            "name": "Venkatesh Iyer",
+            "nickName": "Venkatesh Iyer",
+            "outDec": "not out"
+          },
+          {
+            "id": 7836,
+            "strkRate": "0",
+            "name": "Deepak Chahar",
+            "nickName": "D Chahar"
+          },
+          {
+            "id": 1726,
+            "strkRate": "0",
+            "name": "Bhuvneshwar Kumar",
+            "nickName": "Bhuvneshwar"
+          },
+          {
+            "id": 8175,
+            "strkRate": "0",
+            "name": "Harshal Patel",
+            "nickName": "Harshal Patel"
+          },
+          {
+            "id": 14659,
+            "strkRate": "0",
+            "name": "Ravi Bishnoi",
+            "nickName": "Ravi Bishnoi"
+          },
+          {
+            "id": 7910,
+            "strkRate": "0",
+            "name": "Yuzvendra Chahal",
+            "nickName": "Chahal"
+          }
+        ],
+        "bowler": [
+          {
+            "id": 9395,
+            "overs": "4",
+            "wickets": 1,
+            "runs": 35,
+            "economy": "8.8",
+            "name": "Sheldon Cottrell",
+            "nickName": "Cottrell"
+          },
+          {
+            "id": 13646,
+            "overs": "3",
+            "runs": 24,
+            "economy": "8",
+            "name": "Romario Shepherd",
+            "nickName": "Romario Shepherd"
+          },
+          {
+            "id": 11215,
+            "overs": "2",
+            "runs": 31,
+            "economy": "15.5",
+            "name": "Odean Smith",
+            "nickName": "Odean Smith"
+          },
+          {
+            "id": 8435,
+            "overs": "4",
+            "runs": 34,
+            "economy": "8.5",
+            "name": "Akeal Hosein",
+            "nickName": "Akeal Hosein"
+          },
+          {
+            "id": 11543,
+            "overs": "4",
+            "wickets": 2,
+            "runs": 14,
+            "economy": "3.5",
+            "name": "Roston Chase",
+            "nickName": "Roston Chase"
+          },
+          {
+            "id": 9785,
+            "overs": "1.5",
+            "wickets": 1,
+            "runs": 23,
+            "economy": "12.5",
+            "name": "Fabian Allen",
+            "nickName": "Fabian Allen"
+          }
+        ],
+        "fow": [
+          {
+            "fow": [
+              {
+                "batsmanId": 576,
+                "batsmanName": "Rohit Sharma",
+                "overNbr": 7.3,
+                "runs": 64,
+                "ballNbr": 73
+              },
+              {
+                "batsmanId": 10276,
+                "batsmanName": "Ishan Kishan",
+                "overNbr": 11.6,
+                "runs": 93,
+                "ballNbr": 116
+              },
+              {
+                "batsmanId": 1413,
+                "batsmanName": "Virat Kohli",
+                "overNbr": 12.3,
+                "runs": 95,
+                "ballNbr": 123
+              },
+              {
+                "batsmanId": 10744,
+                "batsmanName": "Rishabh Pant",
+                "overNbr": 14.3,
+                "runs": 114,
+                "ballNbr": 143
+              }
+            ]
+          }
+        ],
+        "extras": {
+          "legByes": 1,
+          "wides": 3,
+          "total": 4
+        },
+        "pp": [
+          {
+            "powerPlay": [
+              {
+                "id": 45,
+                "ovrFrom": 0.1,
+                "ovrTo": 6,
+                "ppType": "mandatory",
+                "run": 58
+              }
+            ]
+          }
+        ],
+        "score": 162,
+        "wickets": 4,
+        "overs": 18.5,
+        "runRate": 8.6,
+        "batTeamName": "India",
+        "batTeamSName": "IND",
+        "ballNbr": 113,
+        "rpb": 0.88
+      },
+      "scorecard2": {
+        "inningsId": 1,
+        "batsman": [
+          {
+            "id": 9791,
+            "balls": 5,
+            "runs": 4,
+            "fours": 1,
+            "strkRate": "80",
+            "name": "Brandon King",
+            "outDec": "c Suryakumar Yadav b Bhuvneshwar"
+          },
+          {
+            "id": 8440,
+            "balls": 24,
+            "runs": 31,
+            "fours": 7,
+            "strkRate": "129.17",
+            "name": "K Mayers",
+            "outDec": "lbw b Chahal"
+          },
+          {
+            "id": 9406,
+            "balls": 43,
+            "runs": 61,
+            "fours": 4,
+            "sixes": 5,
+            "strkRate": "141.86",
+            "name": "Pooran",
+            "isKeeper": true,
+            "outDec": "c Kohli b Harshal Patel"
+          },
+          {
+            "id": 11543,
+            "balls": 10,
+            "runs": 4,
+            "strkRate": "40",
+            "name": "Roston Chase",
+            "outDec": "lbw b Ravi Bishnoi"
+          },
+          {
+            "id": 11445,
+            "balls": 3,
+            "runs": 2,
+            "strkRate": "66.67",
+            "name": "Rovman Powell",
+            "outDec": "c Venkatesh Iyer b Ravi Bishnoi"
+          },
+          {
+            "id": 8435,
+            "balls": 12,
+            "runs": 10,
+            "sixes": 1,
+            "strkRate": "83.33",
+            "name": "Akeal Hosein",
+            "outDec": "c and b D Chahar"
+          },
+          {
+            "id": 657,
+            "balls": 19,
+            "runs": 24,
+            "fours": 2,
+            "sixes": 1,
+            "strkRate": "126.32",
+            "name": "Pollard",
+            "isCaptain": true,
+            "outDec": "not out"
+          },
+          {
+            "id": 11215,
+            "balls": 4,
+            "runs": 4,
+            "strkRate": "100",
+            "name": "Odean Smith",
+            "outDec": "c Rohit b Harshal Patel"
+          },
+          {
+            "id": 13646,
+            "strkRate": "0",
+            "name": "Romario Shepherd"
+          },
+          {
+            "id": 9785,
+            "strkRate": "0",
+            "name": "Fabian Allen"
+          },
+          {
+            "id": 9395,
+            "strkRate": "0",
+            "name": "Cottrell"
+          }
+        ],
+        "bowler": [
+          {
+            "id": 1726,
+            "overs": "4",
+            "wickets": 1,
+            "runs": 31,
+            "economy": "7.8",
+            "name": "Bhuvneshwar"
+          },
+          {
+            "id": 7836,
+            "overs": "3",
+            "wickets": 1,
+            "runs": 28,
+            "economy": "9.3",
+            "name": "D Chahar"
+          },
+          {
+            "id": 8175,
+            "overs": "4",
+            "wickets": 2,
+            "runs": 37,
+            "economy": "9.2",
+            "name": "Harshal Patel"
+          },
+          {
+            "id": 7910,
+            "overs": "4",
+            "wickets": 1,
+            "runs": 34,
+            "economy": "8.5",
+            "name": "Chahal"
+          },
+          {
+            "id": 14659,
+            "overs": "4",
+            "wickets": 2,
+            "runs": 17,
+            "economy": "4.2",
+            "name": "Ravi Bishnoi"
+          },
+          {
+            "id": 10917,
+            "overs": "1",
+            "runs": 4,
+            "economy": "4",
+            "name": "Venkatesh Iyer"
+          }
+        ],
+        "fow": [
+          {
+            "fow": [
+              {
+                "batsmanId": 9791,
+                "batsmanName": "Brandon King",
+                "overNbr": 0.5,
+                "runs": 4,
+                "ballNbr": 5
+              },
+              {
+                "batsmanId": 8440,
+                "batsmanName": "K Mayers",
+                "overNbr": 6.5,
+                "runs": 51,
+                "ballNbr": 65
+              },
+              {
+                "batsmanId": 11543,
+                "batsmanName": "Roston Chase",
+                "overNbr": 10.2,
+                "runs": 72,
+                "ballNbr": 102
+              },
+              {
+                "batsmanId": 11445,
+                "batsmanName": "Rovman Powell",
+                "overNbr": 10.5,
+                "runs": 74,
+                "ballNbr": 105
+              },
+              {
+                "batsmanId": 8435,
+                "batsmanName": "Akeal Hosein",
+                "overNbr": 13.5,
+                "runs": 90,
+                "ballNbr": 135
+              },
+              {
+                "batsmanId": 9406,
+                "batsmanName": "Pooran",
+                "overNbr": 17.6,
+                "runs": 135,
+                "ballNbr": 176
+              },
+              {
+                "batsmanId": 11215,
+                "batsmanName": "Odean Smith",
+                "overNbr": 19.6,
+                "runs": 157,
+                "ballNbr": 196
+              }
+            ]
+          }
+        ],
+        "extras": {
+          "legByes": 6,
+          "wides": 11,
+          "total": 17
+        },
+        "pp": [
+          {
+            "powerPlay": [
+              {
+                "id": 44,
+                "ovrFrom": 0.1,
+                "ovrTo": 6,
+                "ppType": "mandatory",
+                "run": 44
+              }
+            ]
+          }
+        ],
+        "score": 157,
+        "wickets": 7,
+        "overs": 20,
+        "runRate": 7.85,
+        "batTeamName": "West Indies",
+        "batTeamSName": "WI",
+        "ballNbr": 120,
+        "rpb": 0.79
+      }
+    },
+    {
+      "matchInfo": {
+        "matchId": 38597,
+        "seriesId": 3687,
+        "seriesName": "West Indies tour of India, 2022",
+        "matchDesc": "2nd ODI",
+        "matchFormat": "ODI",
+        "startDate": "Sun, 15 Jan",
+        "endDate": "1644422400000",
+        "state": "Complete",
+        "status": "India won by 44 runs",
+        "over":20,
+        "team1": {
+          "teamId": 2,
+          "teamName": "India",
+          "teamSName": "IN",
+          "imageId": 172115
+        },
+        "team2": {
+          "teamId": 10,
+          "teamName": "Sri Lanka",
+          "teamSName": "LK",
+          "imageId": 172124
+        },
+        "venueInfo": {
+          "id": 50,
+          "ground": "Narendra Modi Stadium",
+          "city": "Ahmedabad",
+          "timezone": "+05:30"
+        },
+        "currentBatTeamId": 2,
+        "seriesStartDt": "1644105600000",
+        "seriesEndDt": "1645488000000"
+      },
+      "matchScore": {
+        "team1Score": {
+          "inngs1": {
+            "inningsId": 1,
+            "runs": 237,
+            "wickets": 9,
+            "overs": 49.6
+          }
+        },
+        "team2Score": {
+          "inngs1": {
+            "inningsId": 2,
+            "runs": 193,
+            "wickets": 10,
+            "overs": 45.6
+          }
+        }
+      },
+      "scorecard1": {
+        "inningsId": 2,
+        "batsman": [
+          {
+            "id": 576,
+            "balls": 19,
+            "runs": 40,
+            "fours": 4,
+            "sixes": 3,
+            "strkRate": "210.53",
+            "name": "Rohit Sharma",
+            "nickName": "Rohit",
+            "isCaptain": true,
+            "outDec": "c Odean Smith b Roston Chase"
+          },
+          {
+            "id": 10276,
+            "balls": 42,
+            "runs": 35,
+            "fours": 4,
+            "strkRate": "83.33",
+            "name": "Ishan Kishan",
+            "nickName": "Ishan Kishan",
+            "outDec": "c Fabian Allen b Roston Chase"
+          },
+          {
+            "id": 1413,
+            "balls": 13,
+            "runs": 17,
+            "fours": 1,
+            "strkRate": "130.77",
+            "name": "Virat Kohli",
+            "nickName": "Kohli",
+            "outDec": "c Pollard b Fabian Allen"
+          },
+          {
+            "id": 10744,
+            "balls": 8,
+            "runs": 8,
+            "strkRate": "100",
+            "name": "Rishabh Pant",
+            "nickName": "Pant",
+            "isKeeper": true,
+            "outDec": "c Odean Smith b Cottrell"
+          },
+          {
+            "id": 7915,
+            "balls": 18,
+            "runs": 34,
+            "fours": 5,
+            "sixes": 1,
+            "strkRate": "188.89",
+            "name": "Suryakumar Yadav",
+            "nickName": "Suryakumar Yadav",
+            "outDec": "not out"
+          },
+          {
+            "id": 10917,
+            "balls": 13,
+            "runs": 24,
+            "fours": 2,
+            "sixes": 1,
+            "strkRate": "184.62",
+            "name": "Venkatesh Iyer",
+            "nickName": "Venkatesh Iyer",
+            "outDec": "not out"
+          },
+          {
+            "id": 7836,
+            "strkRate": "0",
+            "name": "Deepak Chahar",
+            "nickName": "D Chahar"
+          },
+          {
+            "id": 1726,
+            "strkRate": "0",
+            "name": "Bhuvneshwar Kumar",
+            "nickName": "Bhuvneshwar"
+          },
+          {
+            "id": 8175,
+            "strkRate": "0",
+            "name": "Harshal Patel",
+            "nickName": "Harshal Patel"
+          },
+          {
+            "id": 14659,
+            "strkRate": "0",
+            "name": "Ravi Bishnoi",
+            "nickName": "Ravi Bishnoi"
+          },
+          {
+            "id": 7910,
+            "strkRate": "0",
+            "name": "Yuzvendra Chahal",
+            "nickName": "Chahal"
+          }
+        ],
+        "bowler": [
+          {
+            "id": 9395,
+            "overs": "4",
+            "wickets": 1,
+            "runs": 35,
+            "economy": "8.8",
+            "name": "Sheldon Cottrell",
+            "nickName": "Cottrell"
+          },
+          {
+            "id": 13646,
+            "overs": "3",
+            "runs": 24,
+            "economy": "8",
+            "name": "Romario Shepherd",
+            "nickName": "Romario Shepherd"
+          },
+          {
+            "id": 11215,
+            "overs": "2",
+            "runs": 31,
+            "economy": "15.5",
+            "name": "Odean Smith",
+            "nickName": "Odean Smith"
+          },
+          {
+            "id": 8435,
+            "overs": "4",
+            "runs": 34,
+            "economy": "8.5",
+            "name": "Akeal Hosein",
+            "nickName": "Akeal Hosein"
+          },
+          {
+            "id": 11543,
+            "overs": "4",
+            "wickets": 2,
+            "runs": 14,
+            "economy": "3.5",
+            "name": "Roston Chase",
+            "nickName": "Roston Chase"
+          },
+          {
+            "id": 9785,
+            "overs": "1.5",
+            "wickets": 1,
+            "runs": 23,
+            "economy": "12.5",
+            "name": "Fabian Allen",
+            "nickName": "Fabian Allen"
+          }
+        ],
+        "fow": [
+          {
+            "fow": [
+              {
+                "batsmanId": 576,
+                "batsmanName": "Rohit Sharma",
+                "overNbr": 7.3,
+                "runs": 64,
+                "ballNbr": 73
+              },
+              {
+                "batsmanId": 10276,
+                "batsmanName": "Ishan Kishan",
+                "overNbr": 11.6,
+                "runs": 93,
+                "ballNbr": 116
+              },
+              {
+                "batsmanId": 1413,
+                "batsmanName": "Virat Kohli",
+                "overNbr": 12.3,
+                "runs": 95,
+                "ballNbr": 123
+              },
+              {
+                "batsmanId": 10744,
+                "batsmanName": "Rishabh Pant",
+                "overNbr": 14.3,
+                "runs": 114,
+                "ballNbr": 143
+              }
+            ]
+          }
+        ],
+        "extras": {
+          "legByes": 1,
+          "wides": 3,
+          "total": 4
+        },
+        "pp": [
+          {
+            "powerPlay": [
+              {
+                "id": 45,
+                "ovrFrom": 0.1,
+                "ovrTo": 6,
+                "ppType": "mandatory",
+                "run": 58
+              }
+            ]
+          }
+        ],
+        "score": 162,
+        "wickets": 4,
+        "overs": 18.5,
+        "runRate": 8.6,
+        "batTeamName": "India",
+        "batTeamSName": "IND",
+        "ballNbr": 113,
+        "rpb": 0.88
+      },
+      "scorecard2": {
+        "inningsId": 1,
+        "batsman": [
+          {
+            "id": 9791,
+            "balls": 5,
+            "runs": 4,
+            "fours": 1,
+            "strkRate": "80",
+            "name": "Brandon King",
+            "outDec": "c Suryakumar Yadav b Bhuvneshwar"
+          },
+          {
+            "id": 8440,
+            "balls": 24,
+            "runs": 31,
+            "fours": 7,
+            "strkRate": "129.17",
+            "name": "K Mayers",
+            "outDec": "lbw b Chahal"
+          },
+          {
+            "id": 9406,
+            "balls": 43,
+            "runs": 61,
+            "fours": 4,
+            "sixes": 5,
+            "strkRate": "141.86",
+            "name": "Pooran",
+            "isKeeper": true,
+            "outDec": "c Kohli b Harshal Patel"
+          },
+          {
+            "id": 11543,
+            "balls": 10,
+            "runs": 4,
+            "strkRate": "40",
+            "name": "Roston Chase",
+            "outDec": "lbw b Ravi Bishnoi"
+          },
+          {
+            "id": 11445,
+            "balls": 3,
+            "runs": 2,
+            "strkRate": "66.67",
+            "name": "Rovman Powell",
+            "outDec": "c Venkatesh Iyer b Ravi Bishnoi"
+          },
+          {
+            "id": 8435,
+            "balls": 12,
+            "runs": 10,
+            "sixes": 1,
+            "strkRate": "83.33",
+            "name": "Akeal Hosein",
+            "outDec": "c and b D Chahar"
+          },
+          {
+            "id": 657,
+            "balls": 19,
+            "runs": 24,
+            "fours": 2,
+            "sixes": 1,
+            "strkRate": "126.32",
+            "name": "Pollard",
+            "isCaptain": true,
+            "outDec": "not out"
+          },
+          {
+            "id": 11215,
+            "balls": 4,
+            "runs": 4,
+            "strkRate": "100",
+            "name": "Odean Smith",
+            "outDec": "c Rohit b Harshal Patel"
+          },
+          {
+            "id": 13646,
+            "strkRate": "0",
+            "name": "Romario Shepherd"
+          },
+          {
+            "id": 9785,
+            "strkRate": "0",
+            "name": "Fabian Allen"
+          },
+          {
+            "id": 9395,
+            "strkRate": "0",
+            "name": "Cottrell"
+          }
+        ],
+        "bowler": [
+          {
+            "id": 1726,
+            "overs": "4",
+            "wickets": 1,
+            "runs": 31,
+            "economy": "7.8",
+            "name": "Bhuvneshwar"
+          },
+          {
+            "id": 7836,
+            "overs": "3",
+            "wickets": 1,
+            "runs": 28,
+            "economy": "9.3",
+            "name": "D Chahar"
+          },
+          {
+            "id": 8175,
+            "overs": "4",
+            "wickets": 2,
+            "runs": 37,
+            "economy": "9.2",
+            "name": "Harshal Patel"
+          },
+          {
+            "id": 7910,
+            "overs": "4",
+            "wickets": 1,
+            "runs": 34,
+            "economy": "8.5",
+            "name": "Chahal"
+          },
+          {
+            "id": 14659,
+            "overs": "4",
+            "wickets": 2,
+            "runs": 17,
+            "economy": "4.2",
+            "name": "Ravi Bishnoi"
+          },
+          {
+            "id": 10917,
+            "overs": "1",
+            "runs": 4,
+            "economy": "4",
+            "name": "Venkatesh Iyer"
+          }
+        ],
+        "fow": [
+          {
+            "fow": [
+              {
+                "batsmanId": 9791,
+                "batsmanName": "Brandon King",
+                "overNbr": 0.5,
+                "runs": 4,
+                "ballNbr": 5
+              },
+              {
+                "batsmanId": 8440,
+                "batsmanName": "K Mayers",
+                "overNbr": 6.5,
+                "runs": 51,
+                "ballNbr": 65
+              },
+              {
+                "batsmanId": 11543,
+                "batsmanName": "Roston Chase",
+                "overNbr": 10.2,
+                "runs": 72,
+                "ballNbr": 102
+              },
+              {
+                "batsmanId": 11445,
+                "batsmanName": "Rovman Powell",
+                "overNbr": 10.5,
+                "runs": 74,
+                "ballNbr": 105
+              },
+              {
+                "batsmanId": 8435,
+                "batsmanName": "Akeal Hosein",
+                "overNbr": 13.5,
+                "runs": 90,
+                "ballNbr": 135
+              },
+              {
+                "batsmanId": 9406,
+                "batsmanName": "Pooran",
+                "overNbr": 17.6,
+                "runs": 135,
+                "ballNbr": 176
+              },
+              {
+                "batsmanId": 11215,
+                "batsmanName": "Odean Smith",
+                "overNbr": 19.6,
+                "runs": 157,
+                "ballNbr": 196
+              }
+            ]
+          }
+        ],
+        "extras": {
+          "legByes": 6,
+          "wides": 11,
+          "total": 17
+        },
+        "pp": [
+          {
+            "powerPlay": [
+              {
+                "id": 44,
+                "ovrFrom": 0.1,
+                "ovrTo": 6,
+                "ppType": "mandatory",
+                "run": 44
+              }
+            ]
+          }
+        ],
+        "score": 157,
+        "wickets": 7,
+        "overs": 20,
+        "runRate": 7.85,
+        "batTeamName": "West Indies",
+        "batTeamSName": "WI",
+        "ballNbr": 120,
+        "rpb": 0.79
+      }
+    },
+    {
+      "matchInfo": {
+        "matchId": 38592,
+        "seriesId": 3687,
+        "seriesName": "West Indies tour of India, 2022",
+        "matchDesc": "1st ODI",
+        "matchFormat": "ODI",
+        "startDate": "Sun, 15 Jan",
+        "endDate": "1644163200000",
+        "state": "Complete",
+        "status": "India won by 6 wkts",
+        "over":20,
+        "team1": {
+          "teamId": 2,
+          "teamName": "India",
+          "teamSName": "IN",
+          "imageId": 172115
+        },
+        "team2": {
+          "teamId": 10,
+          "teamName": "Sri Lanka",
+          "teamSName": "LK",
+          "imageId": 172124
+        },
+        "venueInfo": {
+          "id": 50,
+          "ground": "Narendra Modi Stadium",
+          "city": "Ahmedabad",
+          "timezone": "+05:30"
+        },
+        "currentBatTeamId": 2,
+        "seriesStartDt": "1644105600000",
+        "seriesEndDt": "1645488000000"
+      },
+      "matchScore": {
+        "team1Score": {
+          "inngs1": {
+            "inningsId": 2,
+            "runs": 178,
+            "wickets": 4,
+            "overs": 27.6
+          }
+        },
+        "team2Score": {
+          "inngs1": {
+            "inningsId": 1,
+            "runs": 176,
+            "wickets": 10,
+            "overs": 43.5
+          }
+        }
+      },
+      "scorecard1": {
+        "inningsId": 2,
+        "batsman": [
+          {
+            "id": 576,
+            "balls": 19,
+            "runs": 40,
+            "fours": 4,
+            "sixes": 3,
+            "strkRate": "210.53",
+            "name": "Rohit Sharma",
+            "nickName": "Rohit",
+            "isCaptain": true,
+            "outDec": "c Odean Smith b Roston Chase"
+          },
+          {
+            "id": 10276,
+            "balls": 42,
+            "runs": 35,
+            "fours": 4,
+            "strkRate": "83.33",
+            "name": "Ishan Kishan",
+            "nickName": "Ishan Kishan",
+            "outDec": "c Fabian Allen b Roston Chase"
+          },
+          {
+            "id": 1413,
+            "balls": 13,
+            "runs": 17,
+            "fours": 1,
+            "strkRate": "130.77",
+            "name": "Virat Kohli",
+            "nickName": "Kohli",
+            "outDec": "c Pollard b Fabian Allen"
+          },
+          {
+            "id": 10744,
+            "balls": 8,
+            "runs": 8,
+            "strkRate": "100",
+            "name": "Rishabh Pant",
+            "nickName": "Pant",
+            "isKeeper": true,
+            "outDec": "c Odean Smith b Cottrell"
+          },
+          {
+            "id": 7915,
+            "balls": 18,
+            "runs": 34,
+            "fours": 5,
+            "sixes": 1,
+            "strkRate": "188.89",
+            "name": "Suryakumar Yadav",
+            "nickName": "Suryakumar Yadav",
+            "outDec": "not out"
+          },
+          {
+            "id": 10917,
+            "balls": 13,
+            "runs": 24,
+            "fours": 2,
+            "sixes": 1,
+            "strkRate": "184.62",
+            "name": "Venkatesh Iyer",
+            "nickName": "Venkatesh Iyer",
+            "outDec": "not out"
+          },
+          {
+            "id": 7836,
+            "strkRate": "0",
+            "name": "Deepak Chahar",
+            "nickName": "D Chahar"
+          },
+          {
+            "id": 1726,
+            "strkRate": "0",
+            "name": "Bhuvneshwar Kumar",
+            "nickName": "Bhuvneshwar"
+          },
+          {
+            "id": 8175,
+            "strkRate": "0",
+            "name": "Harshal Patel",
+            "nickName": "Harshal Patel"
+          },
+          {
+            "id": 14659,
+            "strkRate": "0",
+            "name": "Ravi Bishnoi",
+            "nickName": "Ravi Bishnoi"
+          },
+          {
+            "id": 7910,
+            "strkRate": "0",
+            "name": "Yuzvendra Chahal",
+            "nickName": "Chahal"
+          }
+        ],
+        "bowler": [
+          {
+            "id": 9395,
+            "overs": "4",
+            "wickets": 1,
+            "runs": 35,
+            "economy": "8.8",
+            "name": "Sheldon Cottrell",
+            "nickName": "Cottrell"
+          },
+          {
+            "id": 13646,
+            "overs": "3",
+            "runs": 24,
+            "economy": "8",
+            "name": "Romario Shepherd",
+            "nickName": "Romario Shepherd"
+          },
+          {
+            "id": 11215,
+            "overs": "2",
+            "runs": 31,
+            "economy": "15.5",
+            "name": "Odean Smith",
+            "nickName": "Odean Smith"
+          },
+          {
+            "id": 8435,
+            "overs": "4",
+            "runs": 34,
+            "economy": "8.5",
+            "name": "Akeal Hosein",
+            "nickName": "Akeal Hosein"
+          },
+          {
+            "id": 11543,
+            "overs": "4",
+            "wickets": 2,
+            "runs": 14,
+            "economy": "3.5",
+            "name": "Roston Chase",
+            "nickName": "Roston Chase"
+          },
+          {
+            "id": 9785,
+            "overs": "1.5",
+            "wickets": 1,
+            "runs": 23,
+            "economy": "12.5",
+            "name": "Fabian Allen",
+            "nickName": "Fabian Allen"
+          }
+        ],
+        "fow": [
+          {
+            "fow": [
+              {
+                "batsmanId": 576,
+                "batsmanName": "Rohit Sharma",
+                "overNbr": 7.3,
+                "runs": 64,
+                "ballNbr": 73
+              },
+              {
+                "batsmanId": 10276,
+                "batsmanName": "Ishan Kishan",
+                "overNbr": 11.6,
+                "runs": 93,
+                "ballNbr": 116
+              },
+              {
+                "batsmanId": 1413,
+                "batsmanName": "Virat Kohli",
+                "overNbr": 12.3,
+                "runs": 95,
+                "ballNbr": 123
+              },
+              {
+                "batsmanId": 10744,
+                "batsmanName": "Rishabh Pant",
+                "overNbr": 14.3,
+                "runs": 114,
+                "ballNbr": 143
+              }
+            ]
+          }
+        ],
+        "extras": {
+          "legByes": 1,
+          "wides": 3,
+          "total": 4
+        },
+        "pp": [
+          {
+            "powerPlay": [
+              {
+                "id": 45,
+                "ovrFrom": 0.1,
+                "ovrTo": 6,
+                "ppType": "mandatory",
+                "run": 58
+              }
+            ]
+          }
+        ],
+        "score": 162,
+        "wickets": 4,
+        "overs": 18.5,
+        "runRate": 8.6,
+        "batTeamName": "India",
+        "batTeamSName": "IND",
+        "ballNbr": 113,
+        "rpb": 0.88
+      },
+      "scorecard2": {
+        "inningsId": 1,
+        "batsman": [
+          {
+            "id": 9791,
+            "balls": 5,
+            "runs": 4,
+            "fours": 1,
+            "strkRate": "80",
+            "name": "Brandon King",
+            "outDec": "c Suryakumar Yadav b Bhuvneshwar"
+          },
+          {
+            "id": 8440,
+            "balls": 24,
+            "runs": 31,
+            "fours": 7,
+            "strkRate": "129.17",
+            "name": "K Mayers",
+            "outDec": "lbw b Chahal"
+          },
+          {
+            "id": 9406,
+            "balls": 43,
+            "runs": 61,
+            "fours": 4,
+            "sixes": 5,
+            "strkRate": "141.86",
+            "name": "Pooran",
+            "isKeeper": true,
+            "outDec": "c Kohli b Harshal Patel"
+          },
+          {
+            "id": 11543,
+            "balls": 10,
+            "runs": 4,
+            "strkRate": "40",
+            "name": "Roston Chase",
+            "outDec": "lbw b Ravi Bishnoi"
+          },
+          {
+            "id": 11445,
+            "balls": 3,
+            "runs": 2,
+            "strkRate": "66.67",
+            "name": "Rovman Powell",
+            "outDec": "c Venkatesh Iyer b Ravi Bishnoi"
+          },
+          {
+            "id": 8435,
+            "balls": 12,
+            "runs": 10,
+            "sixes": 1,
+            "strkRate": "83.33",
+            "name": "Akeal Hosein",
+            "outDec": "c and b D Chahar"
+          },
+          {
+            "id": 657,
+            "balls": 19,
+            "runs": 24,
+            "fours": 2,
+            "sixes": 1,
+            "strkRate": "126.32",
+            "name": "Pollard",
+            "isCaptain": true,
+            "outDec": "not out"
+          },
+          {
+            "id": 11215,
+            "balls": 4,
+            "runs": 4,
+            "strkRate": "100",
+            "name": "Odean Smith",
+            "outDec": "c Rohit b Harshal Patel"
+          },
+          {
+            "id": 13646,
+            "strkRate": "0",
+            "name": "Romario Shepherd"
+          },
+          {
+            "id": 9785,
+            "strkRate": "0",
+            "name": "Fabian Allen"
+          },
+          {
+            "id": 9395,
+            "strkRate": "0",
+            "name": "Cottrell"
+          }
+        ],
+        "bowler": [
+          {
+            "id": 1726,
+            "overs": "4",
+            "wickets": 1,
+            "runs": 31,
+            "economy": "7.8",
+            "name": "Bhuvneshwar"
+          },
+          {
+            "id": 7836,
+            "overs": "3",
+            "wickets": 1,
+            "runs": 28,
+            "economy": "9.3",
+            "name": "D Chahar"
+          },
+          {
+            "id": 8175,
+            "overs": "4",
+            "wickets": 2,
+            "runs": 37,
+            "economy": "9.2",
+            "name": "Harshal Patel"
+          },
+          {
+            "id": 7910,
+            "overs": "4",
+            "wickets": 1,
+            "runs": 34,
+            "economy": "8.5",
+            "name": "Chahal"
+          },
+          {
+            "id": 14659,
+            "overs": "4",
+            "wickets": 2,
+            "runs": 17,
+            "economy": "4.2",
+            "name": "Ravi Bishnoi"
+          },
+          {
+            "id": 10917,
+            "overs": "1",
+            "runs": 4,
+            "economy": "4",
+            "name": "Venkatesh Iyer"
+          }
+        ],
+        "fow": [
+          {
+            "fow": [
+              {
+                "batsmanId": 9791,
+                "batsmanName": "Brandon King",
+                "overNbr": 0.5,
+                "runs": 4,
+                "ballNbr": 5
+              },
+              {
+                "batsmanId": 8440,
+                "batsmanName": "K Mayers",
+                "overNbr": 6.5,
+                "runs": 51,
+                "ballNbr": 65
+              },
+              {
+                "batsmanId": 11543,
+                "batsmanName": "Roston Chase",
+                "overNbr": 10.2,
+                "runs": 72,
+                "ballNbr": 102
+              },
+              {
+                "batsmanId": 11445,
+                "batsmanName": "Rovman Powell",
+                "overNbr": 10.5,
+                "runs": 74,
+                "ballNbr": 105
+              },
+              {
+                "batsmanId": 8435,
+                "batsmanName": "Akeal Hosein",
+                "overNbr": 13.5,
+                "runs": 90,
+                "ballNbr": 135
+              },
+              {
+                "batsmanId": 9406,
+                "batsmanName": "Pooran",
+                "overNbr": 17.6,
+                "runs": 135,
+                "ballNbr": 176
+              },
+              {
+                "batsmanId": 11215,
+                "batsmanName": "Odean Smith",
+                "overNbr": 19.6,
+                "runs": 157,
+                "ballNbr": 196
+              }
+            ]
+          }
+        ],
+        "extras": {
+          "legByes": 6,
+          "wides": 11,
+          "total": 17
+        },
+        "pp": [
+          {
+            "powerPlay": [
+              {
+                "id": 44,
+                "ovrFrom": 0.1,
+                "ovrTo": 6,
+                "ppType": "mandatory",
+                "run": 44
+              }
+            ]
+          }
+        ],
+        "score": 157,
+        "wickets": 7,
+        "overs": 20,
+        "runRate": 7.85,
+        "batTeamName": "West Indies",
+        "batTeamSName": "WI",
+        "ballNbr": 120,
+        "rpb": 0.79
+      }
+    }
+  ]
+  
